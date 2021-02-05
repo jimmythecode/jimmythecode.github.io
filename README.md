@@ -1,6 +1,6 @@
 ### Hi there, I'm James 👋
 
-<img src="https://imgur.com/lT2xyTi" alt="banner that says James Daniels - junior software engineer">
+<img src="https://i.imgur.com/lT2xyTi.png" alt="banner that says James Daniels - junior software engineer">
 I'm an in-training software engineer who is looking to dedicate his time to making things easier for people. Some technologies I've been working with include ReactJS, PostgreSQL, and Node.JS. I'm currently studying and practising with a passion project of mine:
 * <a href="https://https://mfahelper.netlify.app">MFA Helper</a>
 
