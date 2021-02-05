@@ -1,30 +1,15 @@
-### Hi there, I'm James 👋
-
 <img src="https://i.imgur.com/lT2xyTi.png" alt="banner that says James Daniels - junior software engineer" width="100%">
-I'm an in-training software engineer who is looking to dedicate his time to making things easier for people. Some technologies I've been working with include ReactJS, PostgreSQL, and Node.JS. I'm currently studying and practising with a passion project of mine:
-* <a href="https://https://mfahelper.netlify.app">MFA Helper</a>
 
-And I've also worked on a few other project, using React, Node.JS, Express, handlebars, etc:
-* <a href="https://https://mfahelper.netlify.app"></a>
-* <a href="https://https://mfahelper.netlify.app"></a>
+## Hi there, I'm James 👋
+I'm an in-training software engineer who is looking to dedicate his time to making things (admin, life, etc) easier for people. Some technologies I've been working with include ReactJS, PostgreSQL, and Node.JS. 
 
+🔭 I’m currently studying and practising with a passion project of mine using the PERN stack:
+- <a href="https://mfahelper.netlify.app">MFA Helper</a>
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+And I've also worked on a few other projects as part of the <a href="https://www.facebook.com/webaheadbootcamp/">WebAhead bootcamp</a>, using React, Express, handlebars, etc:
+* <a href="https://sad-pare-c4309e.netlify.app/">Full-stack web app to enable blood donation bookings and advice</a>
+* <a href="https://https://bounty--hunter.herokuapp.com/">Front-end Pokemon Battle game using React </a> (credit to <a href="https://github.com/nathan-barrett/PokemonJS">nathan-barrett</a> for many of the sounds and visuals)
+* <a href="https://https://bounty--hunter.herokuapp.com/">Bounty Hunter app using Express, Handlebars, testing, jwt token authentication, etc</a>
 
-<!--
-**jimmythecode/jimmythecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me 📫
+- email me at jimmythecode@gmail.com
