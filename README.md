@@ -1,5 +1,6 @@
 <img src="https://i.imgur.com/lT2xyTi.png" alt="banner that says James Daniels - junior software engineer" width="100%">
 
+[See my homepage](https://jimmythecode.github.io/jimmythecode/)
 ## Hi there, I'm James 👋
 I'm an in-training software engineer who is looking to dedicate his time to making things (admin, life, etc) easier for people. Some technologies I've been working with include ReactJS, PostgreSQL, and Node.JS. 
 
